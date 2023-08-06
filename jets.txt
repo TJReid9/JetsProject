@@ -1,0 +1,6 @@
+Passenger,SkyBus,484,1720,320000
+FighterClass,F-16,1345,500,300000
+FighterClass,TIE Fighter,850,825,480000
+FighterClass,X-wing,900,800,500000
+CargoCarrier,Boeing 767,400,1200,350000
+CargoCarrier,Airbus Beluga,484,1726,330000
